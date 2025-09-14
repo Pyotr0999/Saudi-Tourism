@@ -36,13 +36,14 @@ function DestBgImges() {
             height={125}
             className="max-w-[180px] md:max-w-none"
           />
-          <div className="flex items-center gap-[400px] pb-[40px]">
           <h1
             className="text-[40px] md:text-[70px] lg:text-[100px] font-bold
               max-xl:text-[50px] max-lg:text-[45px] max-md:text-[40px] max-sm:text-[35px]"
           >
             DESERT
           </h1>
+        </div>
+
         <div className="flex items-center">
           <img
             src="/przd1Logo1.png"
@@ -59,8 +60,6 @@ function DestBgImges() {
             <br />
             Influencer
           </h1>
-          </div>
-        </div>
         </div>
       </div>
     </div>
