@@ -10,7 +10,7 @@ function DesertText() {
     >
       <div className="max-w-3xl">
         <p
-          className="text-white text-[20px] md:text-[24px] leading-relaxed text-center
+          className="text-white text-[20px] pt-[30px] md:text-[24px] leading-relaxed text-center
             max-xl:text-[18px]
             max-lg:text-[17px]
             max-md:text-[16px] max-md:pt-[30px]
